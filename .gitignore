@@ -1,0 +1,7 @@
+node_modules/
+.env
+auth_info_baileys/
+bot.log
+dashboard/node_modules/
+dashboard/dist/
+.DS_Store
